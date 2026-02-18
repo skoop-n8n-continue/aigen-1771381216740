@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "car_001",
+      "name": "Argento V12",
+      "price": "85,000",
+      "image_url": "https://skoop-general.s3.us-east-1.amazonaws.com/n8n_image_gen%2Fluxury_car_1-1771381680254.png",
+      "meta": "0-60 2.8s | 780 HP | V12 Twin-Turbo"
+    },
+    {
+      "id": "car_002",
+      "name": "Obsidian SUV",
+      "price": "45,000",
+      "image_url": "https://skoop-general.s3.us-east-1.amazonaws.com/n8n_image_gen%2Fluxury_car_2-1771381909199.png",
+      "meta": "AWD | 650 HP | Executive Class"
+    },
+    {
+      "id": "car_003",
+      "name": "Nebula E-GT",
+      "price": ",100,000",
+      "image_url": "https://skoop-general.s3.us-east-1.amazonaws.com/n8n_image_gen%2Fluxury_car_3-1771381733960.png",
+      "meta": "Electric | 1900 HP | 250 MPH"
+    }
+  ]
+}
